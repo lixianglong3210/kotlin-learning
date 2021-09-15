@@ -1,7 +1,7 @@
 # kotlin-learning
 Kotlin学习知识汇总
 
-##彻底掌握kotlin
+## 彻底掌握kotlin
 * Kotlin开发初体验
 	* 安装IntelliJ IDEA
 	* 第一个Kotlin项目
