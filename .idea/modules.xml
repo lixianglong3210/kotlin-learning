@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kotlin01/kotlin01.iml" filepath="$PROJECT_DIR$/kotlin01/kotlin01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin02/kotlin02.iml" filepath="$PROJECT_DIR$/kotlin02/kotlin02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin03/kotlin03.iml" filepath="$PROJECT_DIR$/kotlin03/kotlin03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin04/kotlin04.iml" filepath="$PROJECT_DIR$/kotlin04/kotlin04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin05/kotlin05.iml" filepath="$PROJECT_DIR$/kotlin05/kotlin05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin06/kotlin06.iml" filepath="$PROJECT_DIR$/kotlin06/kotlin06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin07/kotlin07.iml" filepath="$PROJECT_DIR$/kotlin07/kotlin07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin08/kotlin08.iml" filepath="$PROJECT_DIR$/kotlin08/kotlin08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin09/kotlin09.iml" filepath="$PROJECT_DIR$/kotlin09/kotlin09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/ss.iml" filepath="$PROJECT_DIR$/src/main/ss.iml" />
+    </modules>
+  </component>
+</project>
