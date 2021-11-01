@@ -1,5 +1,6 @@
 # kotlin-learning
 Kotlin学习知识汇总
+详细文档地址: [https://lixianglong3210.gitee.io/xlong-vdoing/note/kotlin/](https://lixianglong3210.gitee.io/xlong-vdoing/note/kotlin/)
 
 ## 彻底掌握kotlin
 * Kotlin开发初体验
